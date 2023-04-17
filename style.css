@@ -1,0 +1,12 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+ul {
+    list-style: none;
+}
+
+.fas fa-user {
+    color: black;
+}
